@@ -1,4 +1,4 @@
-# À propos de moi 🚀
+# À propos de moi
 
 **De l'Audit à l'Ingénierie Tech : Bâtir le Futur entre Data, Code et Sécurité**
 
